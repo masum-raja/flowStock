@@ -126,8 +126,8 @@ MASAI30 (for 30% Off)
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Mohd_Hasan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-hasan/)
-[![GitHub](https://img.shields.io/badge/Mohd_Hasan-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/alih6051/)
+[![linkedin](https://img.shields.io/badge/Masm_Hasan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masumraja/)
+[![GitHub](https://img.shields.io/badge/Mohd_Hasan-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/masum-raja)
 
 © 2023 Mohd Hasan
 
